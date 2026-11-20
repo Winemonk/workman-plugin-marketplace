@@ -1,65 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-11-20T17:21:41Z",
-    "host":  {
-                 "version":  "1.0.3",
-                 "releasedAt":  "2026-11-20T17:21:40Z",
-                 "notes":  "",
-                 "packages":  [
-                                  {
-                                      "rid":  "win-x64",
-                                      "url":  "http://81.69.250.66/workman/api/packages/latest/win-x64/download",
-                                      "size":  136,
-                                      "sha256":  "3eeba79b504b7b26cdb97a2f5ea52c08ef266115c53211d340bc24cd53b706c7"
-                                  },
-                                  {
-                                      "rid":  "linux-x64",
-                                      "url":  "http://81.69.250.66/workman/api/packages/latest/linux-x64/download",
-                                      "size":  138,
-                                      "sha256":  "ec45f6f32cf0a647ef1743f93c57ca1f986fbcd5e1a8c12cda08e09a21c4a1d9"
-                                  }
-                              ]
-             },
-    "hostVersions":  [
-                         {
-                             "version":  "1.0.3",
-                             "releasedAt":  "2026-11-20T17:21:40Z",
-                             "notes":  "",
-                             "packages":  [
-                                              {
-                                                  "rid":  "win-x64",
-                                                  "url":  "http://81.69.250.66/workman/api/packages/latest/win-x64/download",
-                                                  "size":  136,
-                                                  "sha256":  "3eeba79b504b7b26cdb97a2f5ea52c08ef266115c53211d340bc24cd53b706c7"
-                                              },
-                                              {
-                                                  "rid":  "linux-x64",
-                                                  "url":  "http://81.69.250.66/workman/api/packages/latest/linux-x64/download",
-                                                  "size":  138,
-                                                  "sha256":  "ec45f6f32cf0a647ef1743f93c57ca1f986fbcd5e1a8c12cda08e09a21c4a1d9"
-                                              }
-                                          ]
-                         },
-                         {
-                             "version":  "1.0.2",
-                             "releasedAt":  "2026-11-20T17:18:41Z",
-                             "notes":  "",
-                             "packages":  [
-                                              {
-                                                  "rid":  "win-x64",
-                                                  "url":  "http://81.69.250.66/workman/api/packages/latest/win-x64/download",
-                                                  "size":  136,
-                                                  "sha256":  "d16790274e2012f787f69443511604b338cbdde3d7bb6eb79a0e87fe6bfd25bd"
-                                              },
-                                              {
-                                                  "rid":  "linux-x64",
-                                                  "url":  "http://81.69.250.66/workman/api/packages/latest/linux-x64/download",
-                                                  "size":  138,
-                                                  "sha256":  "c1552039cf51fd09503acfb101415864148c04cc867ee3cbb424f2a3bb45ba02"
-                                              }
-                                          ]
-                         }
-                     ],
+    "updatedAt":  "2026-11-20T18:00:24Z",
     "modules":  [
                     {
                         "id":  "WorkLogModule",
@@ -67,20 +8,20 @@
                         "enabled":  true,
                         "versions":  [
                                          {
+                                             "version":  "1.0.2",
+                                             "url":  "http://81.69.250.66/workman/api/modules/WorkLogModule/versions/1.0.2/download",
+                                             "size":  236,
+                                             "sha256":  "c72671d090616fc5aeaf86190482fcf406dbf36b997e060e6c7669140b28a146",
+                                             "minHostVersion":  "1.0.2",
+                                             "releasedAt":  "2026-11-20T18:00:23Z"
+                                         },
+                                         {
                                              "version":  "1.0.3",
                                              "url":  "http://81.69.250.66/workman/api/modules/WorkLogModule/versions/1.0.3/download",
                                              "size":  236,
                                              "sha256":  "deb07326f798ade373a04bcd8a1dee3a70e1eb17db3c6697198a95476916c881",
                                              "minHostVersion":  "1.0.3",
                                              "releasedAt":  "2026-11-20T17:21:40Z"
-                                         },
-                                         {
-                                             "version":  "1.0.2",
-                                             "url":  "http://81.69.250.66/workman/api/modules/WorkLogModule/versions/1.0.2/download",
-                                             "size":  236,
-                                             "sha256":  "8ab73f36a5e401e0ab1a1e92ab9db4155f452a777fea5c93d6ac80e750a240cf",
-                                             "minHostVersion":  "1.0.2",
-                                             "releasedAt":  "2026-11-20T17:18:41Z"
                                          }
                                      ]
                     }
