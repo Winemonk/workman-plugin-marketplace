@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-11-20T17:18:43Z",
+    "updatedAt":  "2026-11-20T17:20:53Z",
     "host":  {
                  "version":  "1.0.2",
-                 "releasedAt":  "2026-11-20T17:18:41Z",
+                 "releasedAt":  "2026-11-20T17:20:52Z",
                  "notes":  "",
                  "packages":  [
                                   {
@@ -23,7 +23,7 @@
     "hostVersions":  [
                          {
                              "version":  "1.0.2",
-                             "releasedAt":  "2026-11-20T17:18:41Z",
+                             "releasedAt":  "2026-11-20T17:20:52Z",
                              "notes":  "",
                              "packages":  [
                                               {
@@ -53,7 +53,7 @@
                                              "size":  236,
                                              "sha256":  "8ab73f36a5e401e0ab1a1e92ab9db4155f452a777fea5c93d6ac80e750a240cf",
                                              "minHostVersion":  "1.0.2",
-                                             "releasedAt":  "2026-11-20T17:18:41Z"
+                                             "releasedAt":  "2026-11-20T17:20:52Z"
                                          }
                                      ]
                     }
