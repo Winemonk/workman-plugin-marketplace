@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-11-24T10:22:38Z",
+    "updatedAt":  "2026-11-24T10:44:17Z",
     "modules":  [
                     {
                         "id":  "WorkDesktopModule",
@@ -13,7 +13,7 @@
                                              "size":  728051,
                                              "sha256":  "6aafe5e4e5580a97fa16dad43f3294896bf143a2ededf860c83eec843d6cc229",
                                              "minHostVersion":  "0.0.1",
-                                             "releasedAt":  "2026-11-24T10:22:38Z"
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
                                          }
                                      ]
                     },
@@ -28,7 +28,7 @@
                                              "size":  959478,
                                              "sha256":  "b4fdcca74e0c407ea2351c5419b765123682fee7926cb8983156bb440612b01e",
                                              "minHostVersion":  "0.0.1",
-                                             "releasedAt":  "2026-11-24T10:22:38Z"
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
                                          }
                                      ]
                     },
@@ -43,7 +43,7 @@
                                              "size":  104940,
                                              "sha256":  "c01ed38a5e9a59f24abe992f8605521383f195431922f278e57dc48e759a2e42",
                                              "minHostVersion":  "0.0.1",
-                                             "releasedAt":  "2026-11-24T10:22:38Z"
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
                                          }
                                      ]
                     },
@@ -58,7 +58,7 @@
                                              "size":  65567,
                                              "sha256":  "a983ce8bb93815c3632257a348b9a2b91f28f0275b81cdf7fabb220567ca2f3c",
                                              "minHostVersion":  "0.0.1",
-                                             "releasedAt":  "2026-11-24T10:22:38Z"
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
                                          }
                                      ]
                     },
@@ -73,7 +73,7 @@
                                              "size":  1291099,
                                              "sha256":  "2c3e7bf0aceb0773f8279f3631241f8d1831cde00ba613ba8354f0f1ef8d46c9",
                                              "minHostVersion":  "0.0.1",
-                                             "releasedAt":  "2026-11-24T10:22:38Z"
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
                                          }
                                      ]
                     }
